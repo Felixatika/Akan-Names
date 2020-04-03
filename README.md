@@ -8,12 +8,12 @@ they were born.
 # Contributors
 Atika, Felix.
 
-#Projects Purpose
+# Projects Purpose
 Most people do know when their birthdays are, but some might not know what day of the week they were born.This will
 help users to identify their Akan name together with the exact day they were born by just keying in their birth date and their
 gender.
 
-#Demo
+# Demo
 Here is a working live demo: https://felixatika.github.io/Akan-Names/
 # Installation instructions
 Open a browser, copy and paste the live demo link.It will open the landing page of the app.
