@@ -5,6 +5,9 @@ were born and then depending on their gender, outputs their Akan name which are 
 In ghana children are given their first name as a "day name" which corresponds to the day of the week 
 they were born.
 
+# Author
+Atika, Felix.
+
 # Contributors
 Atika, Felix, Savanah Agutu,
 moringa slack team starford members.
