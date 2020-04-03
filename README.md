@@ -1,7 +1,8 @@
 # Akan-Names
 Display Akan day Names.
 
-![user interface image](https://home/felix/Documents/moringa-school-projects/Akan-names/images/landing.png)
+![user interface image](home/felix/Documents/moringa-school-projects/Akan-names/images/landing.png)
+
 A web application that takes a user's birthday and calculates the day of the week they
 were born and then depending on their gender, outputs their Akan name which are names drived from Ghanaian culture.
 In ghana children are given their first name as a "day name" which corresponds to the day of the week 
