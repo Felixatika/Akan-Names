@@ -6,7 +6,8 @@ In ghana children are given their first name as a "day name" which corresponds t
 they were born.
 
 # Contributors
-Atika, Felix.
+Atika, Felix, Savanah Agutu
+moringa slack team starford members.
 
 # Projects Purpose
 Most people do know when their birthdays are, but some might not know what day of the week they were born.This will
