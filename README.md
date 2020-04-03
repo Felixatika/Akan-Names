@@ -33,3 +33,4 @@ felixatika@gmai.com
 
 # License and copyright
 Atika, Felix
+Licensed uner the [MIT License] (LICENSE)
