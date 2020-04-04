@@ -9,7 +9,7 @@ body{
 
 }
 h1,h2,h3{
-  color:red;
+  color:#0004ff;
 }
 .card{
   height: 600px;
@@ -29,5 +29,8 @@ margin: 20px;
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  al
+  
+}
+quiz-text {
+  color: #ff0000;
 }
