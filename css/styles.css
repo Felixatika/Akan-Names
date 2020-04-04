@@ -12,25 +12,28 @@ h1,h2,h3{
   color:#0004ff;
 }
 .card{
-  height: 610px;
+  height: 680px;
  
 }
 .center{
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 50%;
 }
 .top form{
 margin: 20px;
 }
 .avatar {
   vertical-align: middle;
-  width: 200px;
-  height: 200px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   
 }
-quiz-text {
-  color: #ff0000;
+.quiz-text {
+  margin-top: 50px;
+  font-style: italic;
+  font-size: 20px;
+  color: #100dbd;
+
 }

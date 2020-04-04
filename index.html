@@ -13,19 +13,18 @@
             <div class="card-body">
           <h1 text-center akan>AKAN NAMES</h1>
           <hr> 
-           <!-- <img src="images/akan1.jpg" alt="picture" 
-          class="rounded center" height="120"> -->
-          <img src="images/avatar1.png" alt="Avatar" class="avatar center">
-
+           <img src="images/ghanaa.jpg" alt="picture" 
+          class="rounded-circle center" height="120">
+          
           <p class="info-text">
           A web application that takes a user's birthday and calculates the day of the week they 
           were born and then depending on their gender
           outputs their Akan Name.Akan Names are derived from 
           Ghanian culture.
-          <p info-text>Frequently in Ghana, children are given their first name as a "day name"  
+          <p class="info-text">Frequently in Ghana, children are given their first name as a "day name"  
           which corresponds to the day in the week they were born.</p>
           </p><br>
-          <p quiz-text text-center>Want to know your Akan name meaning? Find out..</p>
+          <p class="quiz-text text-center">Want to know your Akan name meaning? Find out..</p>
           </div>
           </div>
         </div>
@@ -34,6 +33,8 @@
           <div class="card bg-success">
             <div class="card-body">
           <div class="form-group top-form">
+            <img src="images/avatar1.png" alt="Avatar" class="avatar center">
+            <h2>Enter your details:</h2>
             <label for = "century" class="labels">Century</label>
             <input type="number" class="form-control" placeholder="Enter the century e.g 1999 cc is 19" id="century" required min="1" max="20">
           </div>
@@ -53,7 +54,6 @@
             <input type="radio" class="genders labels" value="male" id="rad1" name="rads" required>Male
             <input type="radio" class="genders labels" value="female" id="rad1" name="rads" required>Female
           </form>
-          <br>
           <a href="#result"><button type="button" name="button" class="btn btn-primary mb-2" onclick="checkDayOfWeek();">Calculate Birthday</button></a>
           <h1 id="result"></h1>
 
