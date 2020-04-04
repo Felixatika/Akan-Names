@@ -4,8 +4,11 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-h1,h2,h3 {
+h2,h3 {
   color:#0004ff;
+}
+h1 {
+  color: yellowgreen;
 }
 .card {
   height: 680px;
