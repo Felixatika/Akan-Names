@@ -1,5 +1,5 @@
 var century, year, month, dayOfMonth, dayOfWeek, day;
-//Get input
+//Obtaining input
 function getInput(){
   century = parseInt(document.getElementById("century").value);
   year = parseInt(document.getElementById("year").value);
@@ -7,16 +7,16 @@ function getInput(){
   dayOfMonth = parseInt(document.getElementById("monthday").value);
 
 
-  if(century == ""){
+  if(century == "" || century < 1 || century > 20){
     alert("Input the correct gender");
     return false;
-  }else if (year == ""){
+  }else if (year == "" || year < 1 || year > 100){
     alert("Input the correct year");
     return false;
-  }else if (month == ""){
+  }else if (month == "" || month < 1 || month >12){
     alert("Input the correct month");
     return false;
-  }else if(dayOfMonth == ""){
+  }else if(dayOfMonth == "" || dayOfMonth < 1 || dayOfMonth > 31){
     alert("input the correct date");
     return false;
   }
