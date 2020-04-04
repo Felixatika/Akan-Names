@@ -4,16 +4,12 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  
-
-
 }
 h1,h2,h3{
   color:#0004ff;
 }
 .card{
   height: 680px;
- 
 }
 .center{
 display: block;
