@@ -1,35 +1,36 @@
-body{
-
+body {
   background-color: #cccccc;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-h1,h2,h3{
+h1,h2,h3 {
   color:#0004ff;
 }
-.card{
+.card {
   height: 680px;
 }
-.center{
+.center {
 display: block;
 margin-left: auto;
 margin-right: auto;
 }
-.top form{
+.top form {
 margin: 20px;
 }
 .avatar {
   vertical-align: middle;
   width: 80px;
   height: 80px;
-  border-radius: 50%;
-  
+  border-radius: 50%; 
 }
 .quiz-text {
   margin-top: 50px;
   font-style: italic;
   font-size: 20px;
   color: #100dbd;
-
+}
+.akan {
+font-size: 30px;
+font-style: oblique;
 }
