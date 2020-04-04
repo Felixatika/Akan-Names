@@ -57,6 +57,23 @@ function checkGender(){
   }else {
     console.log("pass");//Test the radio buttons
   }
+  // if(gender === male){
+  //   document.getElementById("result").innerHTML = "The day is on a sunday." + " " + "Your akan name is " + maleNames[0];
+  //   document.getElementById("result").innerHTML = "The day is on a monday." + " " + "Your akan name is " + maleNames[1];
+  //   document.getElementById("result").innerHTML = "The day is on a tuesday." + " " + "Your akan name is " + maleNames[2];
+  //   document.getElementById("result").innerHTML = "The day is on a wednesday." + " " + "Your akan name is " + maleNames[3];
+  //   document.getElementById("result").innerHTML = "The day is on a thursday." + " " + "Your akan name is " + maleNames[4];
+  //   document.getElementById("result").innerHTML = "The day is on a friday." + " " + "Your akan name is " + maleNames[5];
+  //   document.getElementById("result").innerHTML = "The day is on a saturday." + " " + "Your akan name is " + maleNames[6];
+  // }else{
+  //   document.getElementById("result").innerHTML = "The day is on a sunday." + " " + "Your akan name is " + femaleNames[0];
+  //   document.getElementById("result").innerHTML = "The day is on a monday." + " " + "Your akan name is " + femaleNames[1];
+  //   document.getElementById("result").innerHTML = "The day is on a tuesday." + " " + "Your akan name is " + femaleNames[2];
+  //   document.getElementById("result").innerHTML = "The day is on a wednesday." + " " + "Your akan name is " + femaleNames[3];
+  //   document.getElementById("result").innerHTML = "The day is on a thursday." + " " + "Your akan name is " + femaleNames[4];
+  //   document.getElementById("result").innerHTML = "The day is on a friday." + " " + "Your akan name is " + femaleNames[5];
+  //   document.getElementById("result").innerHTML = "The day is on a saturday." + " " + "Your akan name is " + femaleNames[6];
+  // }
     switch(gender){
         case gender = "male":
               switch(day){
