@@ -42,4 +42,4 @@ felixatika@gmai.com
 
 # License and copyright
 Atika, Felix
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
