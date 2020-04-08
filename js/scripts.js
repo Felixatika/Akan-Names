@@ -38,7 +38,7 @@ function calculateDay() {
 function checkDayOfWeek() {
   day = calculateDay();
   checkGender();
-  console.log("The function runs");//Test chackDayOfWeek function
+  console.log("The function runs");//Test checkDayOfWeek function
 }
 
 //arrays
